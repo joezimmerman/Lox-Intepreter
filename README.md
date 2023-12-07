@@ -10,10 +10,10 @@ Like I state above, this project was built using C#. To view this project in you
 
 Once you have opened up the project, you can run the intepreter in two ways: Interactive mode or by inputting a file.
 To run my interpreter in interactive mode, run the following command:
-  dotnet run 
+ <br>    dotnet run 
 
 To run my interpreter by inputting a file, run the following command:
-  dotnet run filename
+ <br>    dotnet run filename
 
 Although it is entirely possible to run my project on your own, I've provided 4 test files and the corresponding outputs within the Final submission folder.
 
