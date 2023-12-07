@@ -1,0 +1,45 @@
+Welcome to my intepreter
+For loop test 1"
+1
+2
+3
+4
+5
+For loop test 2"
+0
+2
+4
+6
+8
+For loop test 3"
+1
+1
+1
+2
+2
+1
+2
+2
+3
+1
+3
+2
+While loop test 1"
+1
+2
+3
+4
+5
+While loop test 2"
+10
+8
+6
+4
+2
+While loop test 3"
+2
+3
+3
+4
+4
+5

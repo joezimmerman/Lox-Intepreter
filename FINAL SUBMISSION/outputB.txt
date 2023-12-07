@@ -1,0 +1,4 @@
+Welcome to my intepreter
+Condition 1 is true"
+Condition 2 is false"
+Number is greater than 5"

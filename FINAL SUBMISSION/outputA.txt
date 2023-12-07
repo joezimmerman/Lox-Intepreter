@@ -1,0 +1,13 @@
+10
+5
+15
+5
+50
+2
+Hello", "World"!"
+False
+True
+True
+False
+True
+False

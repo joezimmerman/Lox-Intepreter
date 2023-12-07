@@ -1,0 +1,8 @@
+Welcome to my intepreter
+Function test 1"
+Hello, World!"
+Function test 2"
+7
+Function test 3"
+10
+Function

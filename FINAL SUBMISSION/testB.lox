@@ -1,0 +1,27 @@
+// Tests to show that if statements work
+// If Statements Test
+
+// Test case 1: Basic if statement
+var condition1 = true;
+if (condition1) {
+  print "Condition 1 is true";
+} else {
+  print "Condition 1 is false"; // This should not be printed
+}
+
+// Test case 2: Basic if-else statement with a false condition
+var condition2 = false;
+if (condition2) {
+  print "Condition 2 is true"; // This should not be printed
+} else {
+  print "Condition 2 is false";
+}
+
+// Test case 3: If statement with arithmetic condition
+var number = 7;
+if (number > 5) {
+  print "Number is greater than 5";
+} else {
+  print "Number is 5 or less"; // This should not be printed
+}
+

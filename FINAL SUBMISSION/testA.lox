@@ -1,0 +1,40 @@
+// Basic Language Features Test
+// Tests: variable declaration and assignment, Arithmetic operations, printing, string concatenation, and relational operations
+// Variable declaration and assignment
+var a = 10;
+var b = 5;
+
+// Arithmetic operations
+var sum = a + b;
+var difference = a - b;
+var product = a * b;
+var quotient = a / b;
+
+// Display results
+print a;
+print b;
+print sum;
+print difference;
+print product;
+print quotient;
+
+// String concatenation
+var str1 = "Hello";
+var str2 = "World";
+var greeting = str1 + ", " + str2 + "!";
+print greeting;
+
+// Relational operations
+var isEqual = a == b;
+var isNotEqual = a != b;
+var isGreaterThan = a > b;
+var isLessThan = a < b;
+var isGreaterOrEqual = a >= b;
+var isLessOrEqual = a <= b;
+
+print isEqual;
+print isNotEqual;
+print isGreaterThan;
+print isLessThan;
+print isGreaterOrEqual;
+print isLessOrEqual;
