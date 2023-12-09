@@ -22,3 +22,6 @@ Although it is entirely possible to run my project on your own, I've provided 4 
 
 The test files are: testA.lox , testB.lox, testC.lox, and testD.lox
 The output files correspond to each test file: outputA.txt, outputB.txt, outputC.txt, ouputD.txt
+
+DISCLAIMER:
+“For this assignment's preparation, I have utilized ChatGPT, a language model created by OpenAI. Within this assignment, ChatGPT was used for purposes such as: helping me write some of the code found in this project, helping me dubug problems that I ran into, and writing test cases. ChatGpt was mainly used in the creation of test cases for my code. I want to make this abundantly clear.”
