@@ -1,4 +1,5 @@
 # Lox-Intepreter
+If you have not already looked at my project report, please do so, here is the link for it: https://docs.google.com/document/d/18iPiXVlDqWvjRcuAJGO1WV9SyCZjNP4TxutA8EMOCEE/edit
 This project is a Lox Intepreter written in C# based on the book crafting interpreters. I only got through Chapters 4-10, but the functionalities within those chapters work with 100% success. 
 
 I have provided three updates: one after chapters 4-6, another after chapters 7-9, and the final after chapter 10. Those updates can be seen by looking through the corresponding folders (Lox_chapter4-6, Lox_chapter 6-9, Lox_chapter 10).
